@@ -41,3 +41,19 @@ killall -w find
 #10 Obten el PID del proceso bash
 pidof bash
 
+pidof -s bash
+
+#Utiliza el comando nice para cambiar la prioridad de un proceso
+nice -n 19 sleep 30 &
+renice -n 19 12345
+renice +1 -u user
+
+#11 Utiliza el comando top para visualizar los procesos
+top
+
+#12 Utiliza el comando pstree y analiza su salida
+pstree
+pstree -p
+
+#13 Verifica el tiempo que tarda en ejecutarse un comando
+time ls -l
