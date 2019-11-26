@@ -47,3 +47,5 @@ stat hello.txt
 
 #15 Muestra las estadisticas para la carpeta dir1
 stat dir1
+
+#Fin Lab 2
