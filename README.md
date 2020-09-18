@@ -8,6 +8,3 @@ Basic Linux Labs
 
 [![asciicast](https://asciinema.org/a/lJPigrCjvyhiH7GgS16dncUtG.svg)](https://asciinema.org/a/lJPigrCjvyhiH7GgS16dncUtG)
 
-
-# Test2
-<script id="asciicast-lJPigrCjvyhiH7GgS16dncUtG" src="https://asciinema.org/a/lJPigrCjvyhiH7GgS16dncUtG.js" async></script>
